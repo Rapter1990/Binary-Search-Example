@@ -43,9 +43,9 @@ public class ProcessMethod {
 		System.out.println("binarySearchProcess is working ");
 		Integer[] indexArray = BinarySearch.searchBySubStringCharacter(cities, charWord);
 		
-		/*for (int i = 0; i < indexArray.length; i++) {
+		for (int i = 0; i < indexArray.length; i++) {
             System.out.print(indexArray[i] + " ");
-        }*/
+        }
 		System.out.println();
 		ShowResult.getValuesFromIndexArray(cities, indexArray);
 	}

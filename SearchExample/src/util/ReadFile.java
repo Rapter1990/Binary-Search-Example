@@ -29,7 +29,12 @@ public class ReadFile implements Serializable{
 		        String[] cityNameCountryInformation = cityIdInformation[1].split(", ");
 		        
 		        String cityName = cityNameCountryInformation[0];
-		        String cityCountry = cityNameCountryInformation[1];
+		        String cityCountry = "";
+		        if(cityNameCountryInformation.length == 2) {
+		        	cityCountry = cityNameCountryInformation[1];
+		        }else {
+		        	cityCountry = cityNameCountryInformation[2];
+		        }
 		        
 		        cityId = cityId.trim();
 		        cityName = cityName.trim();

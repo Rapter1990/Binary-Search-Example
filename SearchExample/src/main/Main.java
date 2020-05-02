@@ -3,6 +3,7 @@ package main;
 import java.time.Duration;
 import java.time.Instant;
 import java.util.ArrayList;
+import java.util.Locale;
 import java.util.Scanner;
 
 import model.City;
@@ -15,7 +16,7 @@ public class Main {
 	
 	private static ArrayList<City> cities = new ArrayList<City>();
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		Instant start = Instant.now();
 		ReadFileProcess();
 		Instant end = Instant.now();
