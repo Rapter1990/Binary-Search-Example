@@ -37,8 +37,16 @@
 <ul>
   <li>src
     <ul>
-      <li>files</li>
-      <li>main</li>
+      <li>Bananas</li>
+      <li>Apples
+        <ul>
+          <li>Green</li>
+          <li>Red</li>
+        </ul>
+      </li>
+      <li>Pears</li>
     </ul>
   </li>
+  <li>Vegetables</li>
+  <li>Meat</li>
 </ul>
