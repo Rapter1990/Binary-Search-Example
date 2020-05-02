@@ -1,0 +1,254 @@
+Output
+----------------------------------------
+City Weight : 14608512 | City Name : Shanghai | City Country : China
+City Weight : 1333973 | City Name : Shantou | City Country : China
+City Weight : 770000 | City Name : Shangyu | City Country : China
+City Weight : 628749 | City Name : Shaoguan | City Country : China
+City Weight : 543733 | City Name : Sharjah | City Country : United Arab Emirates
+City Weight : 498780 | City Name : Shashi | City Country : China
+City Weight : 481654 | City Name : Shah Alam | City Country : Malaysia
+City Weight : 421283 | City Name : Shaoxing | City Country : China
+City Weight : 320434 | City Name : Shahjahanpur | City Country : India
+City Weight : 318769 | City Name : Shangrao | City Country : China
+City Weight : 303282 | City Name : Mazar-e Sharif | City Country : Afghanistan
+City Weight : 277334 | City Name : Khomeyni Shahr | City Country : Iran
+City Weight : 255396 | City Name : Shari-i-Tajan | City Country : Iran
+City Weight : 244230 | City Name : Bihar Sharif | City Country : India
+City Weight : 221312 | City Name : Shakhty | City Country : Russia
+City Weight : 214558 | City Name : Shagamu | City Country : Nigeria
+City Weight : 181218 | City Name : Shangqiu | City Country : China
+City Weight : 165699 | City Name : Shanwei | City Country : China
+City Weight : 149983 | City Name : Shantipur | City Country : India
+City Weight : 143970 | City Name : Kafr ash Shaykh | City Country : Egypt
+City Weight : 131889 | City Name : Shahrud | City Country : Iran
+City Weight : 129153 | City Name : Shahr-e Kord | City Country : Iran
+City Weight : 125132 | City Name : Shahecheng | City Country : China
+City Weight : 112585 | City Name : Shaowu | City Country : China
+City Weight : 107589 | City Name : Shaping | City Country : China
+City Weight : 102420 | City Name : Shahzadpur | City Country : Bangladesh
+City Weight : 100790 | City Name : Shahre?a | City Country : Iran
+City Weight : 97966 | City Name : Shamli | City Country : India
+City Weight : 89289 | City Name : Shahdol | City Country : India
+City Weight : 85871 | City Name : Shashemene | City Country : Ethiopia
+City Weight : 82732 | City Name : Ash Shatrah | City Country : Iraq
+City Weight : 82509 | City Name : Shache | City Country : China
+City Weight : 82419 | City Name : Shangzhi | City Country : China
+City Weight : 80843 | City Name : Shanting | City Country : China
+City Weight : 79479 | City Name : Shadrinsk | City Country : Russia
+City Weight : 75814 | City Name : Kamensk-Shakhtinskiy | City Country : Russia
+City Weight : 75411 | City Name : Shahdadkot | City Country : Pakistan
+City Weight : 75233 | City Name : Shangmei | City Country : China
+City Weight : 74459 | City Name : Shancheng | City Country : China
+City Weight : 73606 | City Name : Shahabad | City Country : India
+City Weight : 71700 | City Name : Shakhtërsk | City Country : Ukraine
+City Weight : 67249 | City Name : Shahdadpur | City Country : Pakistan
+City Weight : 66541 | City Name : Shabqadar | City Country : Pakistan
+City Weight : 64966 | City Name : Chust Shahri | City Country : Uzbekistan
+City Weight : 64304 | City Name : Shakargarr | City Country : Pakistan
+City Weight : 62209 | City Name : Shawnee | City Country : Kansas
+City Weight : 58849 | City Name : Shahriar | City Country : Iran
+City Weight : 58402 | City Name : Shahada | City Country : India
+City Weight : 57661 | City Name : Ash Shamiyah | City Country : Iraq
+City Weight : 57550 | City Name : Shanhetun | City Country : China
+City Weight : 57051 | City Name : Shahrisabz | City Country : Uzbekistan
+City Weight : 53346 | City Name : Shajapur | City Country : India
+City Weight : 52409 | City Name : Shahr-e Babak | City Country : Iran
+City Weight : 49161 | City Name : Shawinigan | City Country : Quebec
+City Weight : 48975 | City Name : Khan Shaykhun | City Country : Syria
+City Weight : 47590 | City Name : Shah Pasand | City Country : Iran
+City Weight : 46718 | City Name : Shaikhpura | City Country : India
+City Weight : 43185 | City Name : Hod HaSharon | City Country : Israel
+City Weight : 42773 | City Name : Sharypovo | City Country : Russia
+City Weight : 41442 | City Name : Shahin Dezh | City Country : Iran
+City Weight : 37220 | City Name : Shadegan | City Country : Iran
+City Weight : 37076 | City Name : Shakopee | City Country : Minnesota
+City Weight : 36137 | City Name : Ramat HaSharon | City Country : Israel
+City Weight : 35421 | City Name : Shamkhor | City Country : Azerbaijan
+City Weight : 34078 | City Name : Shakiso | City Country : Ethiopia
+City Weight : 33273 | City Name : Shahpura | City Country : India
+City Weight : 32391 | City Name : Farrokh Shahr | City Country : Iran
+City Weight : 31855 | City Name : Sharqpur | City Country : Pakistan
+City Weight : 31422 | City Name : Shahpur | City Country : India
+City Weight : 31009 | City Name : Shamsabad | City Country : India
+City Weight : 30286 | City Name : Khairpur Nathan Shah | City Country : Pakistan
+City Weight : 30069 | City Name : Shatura | City Country : Russia
+City Weight : 29857 | City Name : Shawnee | City Country : Oklahoma
+City Weight : 29800 | City Name : Shar’ya | City Country : Russia
+City Weight : 29403 | City Name : Shamakhi | City Country : Azerbaijan
+City Weight : 29095 | City Name : Jahanian Shah | City Country : Pakistan
+City Weight : 28448 | City Name : Shaker Heights | City Country : Ohio
+City Weight : 26510 | City Name : Shahganj | City Country : India
+City Weight : 25920 | City Name : Shaykh Miskin | City Country : Syria
+City Weight : 25356 | City Name : Shardara | City Country : Kazakhstan
+City Weight : 23075 | City Name : Shamgarh | City Country : India
+City Weight : 22400 | City Name : Shakhun’ya | City Country : Russia
+City Weight : 21446 | City Name : Shahpur Chakar | City Country : Pakistan
+City Weight : 20946 | City Name : Shama Junction | City Country : Ghana
+City Weight : 19325 | City Name : Bhit Shah | City Country : Pakistan
+City Weight : 19077 | City Name : Maple Shade | City Country : New Jersey
+City Weight : 17698 | City Name : Tharu Shah | City Country : Pakistan
+City Weight : 16988 | City Name : Shafter | City Country : California
+City Weight : 16166 | City Name : Shahr Sultan | City Country : Pakistan
+City Weight : 16064 | City Name : Shahi | City Country : India
+City Weight : 15967 | City Name : Shahrak | City Country : Afghanistan
+City Weight : 15354 | City Name : Shambu | City Country : Ethiopia
+City Weight : 15344 | City Name : Choa Saidan Shah | City Country : Pakistan
+City Weight : 14830 | City Name : Shahgarh | City Country : India
+City Weight : 14784 | City Name : Shahba | City Country : Syria
+City Weight : 14508 | City Name : Julana Shadipur | City Country : India
+City Weight : 14305 | City Name : Shani | City Country : Nigeria
+City Weight : 14153 | City Name : Shahpur | City Country : Pakistan
+City Weight : 14147 | City Name : Kegeyli Shahar | City Country : Uzbekistan
+City Weight : 14137 | City Name : Shankargarh | City Country : India
+City Weight : 14038 | City Name : Sharon | City Country : Pennsylvania
+City Weight : 13762 | City Name : Ash Shamiyah | City Country : Kuwait
+City Weight : 13737 | City Name : Zarghun Shahr | City Country : Afghanistan
+City Weight : 13577 | City Name : Shahkot | City Country : India
+City Weight : 13560 | City Name : Sharonville | City Country : Ohio
+City Weight : 13273 | City Name : Shakhan | City Country : Kazakhstan
+City Weight : 13042 | City Name : Shahrtuz | City Country : Tajikistan
+City Weight : 12000 | City Name : Sharm ash Shaykh | City Country : Egypt
+City Weight : 11577 | City Name : Shalushka | City Country : Russia
+City Weight : 11523 | City Name : Shady Hills | City Country : Florida
+City Weight : 11415 | City Name : Shagonar | City Country : Russia
+City Weight : 11243 | City Name : Ash Shajarah | City Country : Jordan
+City Weight : 10965 | City Name : Shahapur | City Country : India
+City Weight : 10353 | City Name : Shakhovskaya | City Country : Russia
+City Weight : 10317 | City Name : Shamva | City Country : Zimbabwe
+City Weight : 10164 | City Name : Shasta Lake | City Country : California
+City Weight : 10100 | City Name : Shakhtersk | City Country : Russia
+City Weight : 9712 | City Name : Shatki | City Country : Russia
+City Weight : 9536 | City Name : Shayan | City Country : Kazakhstan
+City Weight : 9305 | City Name : Shawano | City Country : Wisconsin
+City Weight : 9087 | City Name : Shar | City Country : Kazakhstan
+City Weight : 8781 | City Name : Shannon | City Country : Ireland
+City Weight : 8380 | City Name : Ash Sha?aniyah | City Country : Qatar
+City Weight : 8375 | City Name : Shamkhal | City Country : Russia
+City Weight : 8316 | City Name : Castle Shannon | City Country : Pennsylvania
+City Weight : 8072 | City Name : Sharlyk | City Country : Russia
+City Weight : 8036 | City Name : Tsrar Sharif | City Country : India
+City Weight : 7756 | City Name : Qal‘ah-ye Shahr | City Country : Afghanistan
+City Weight : 7500 | City Name : Sharkowshchyna | City Country : Belarus
+City Weight : 7475 | City Name : ‘Aþirah ash Shamaliyah | City Country : Palestinian Territory
+City Weight : 7471 | City Name : Shanga | City Country : Nigeria
+City Weight : 7434 | City Name : Shatsk | City Country : Russia
+City Weight : 7374 | City Name : Shamokin | City Country : Pennsylvania
+City Weight : 7366 | City Name : Za?ah Sharan | City Country : Afghanistan
+City Weight : 7349 | City Name : New Shagunnu | City Country : Nigeria
+City Weight : 7280 | City Name : Shangjie | City Country : China
+City Weight : 7163 | City Name : Shamil’kala | City Country : Russia
+City Weight : 6895 | City Name : Sharhorod | City Country : Ukraine
+City Weight : 6886 | City Name : Shabo | City Country : Ukraine
+City Weight : 6813 | City Name : Shaftesbury | City Country : United Kingdom
+City Weight : 6810 | City Name : Shanyang | City Country : China
+City Weight : 6689 | City Name : Shalya | City Country : Russia
+City Weight : 6523 | City Name : Sharkan | City Country : Russia
+City Weight : 6508 | City Name : Shaffa | City Country : Nigeria
+City Weight : 6310 | City Name : Shajiang | City Country : China
+City Weight : 6295 | City Name : Shatrovo | City Country : Russia
+City Weight : 6273 | City Name : Sharanga | City Country : Russia
+City Weight : 5803 | City Name : Shady Side | City Country : Maryland
+City Weight : 5774 | City Name : Shamkhal-Termen | City Country : Russia
+City Weight : 5708 | City Name : Shats’k | City Country : Ukraine
+City Weight : 5697 | City Name : Sharon Hill | City Country : Pennsylvania
+City Weight : 5658 | City Name : Sharon | City Country : Massachusetts
+City Weight : 5651 | City Name : Shakawe | City Country : Botswana
+City Weight : 5626 | City Name : Shantobe | City Country : Kazakhstan
+City Weight : 5579 | City Name : Al Bunayyat ash Shamaliyah | City Country : Jordan
+City Weight : 5555 | City Name : Sharan | City Country : Russia
+City Weight : 5385 | City Name : Shakhrinav | City Country : Tajikistan
+City Weight : 5319 | City Name : Shalazhi | City Country : Russia
+City Weight : 5051 | City Name : Shanor-Northvue | City Country : Pennsylvania
+City Weight : 5015 | City Name : Bani Zayd ash Sharqiyah | City Country : Palestinian Territory
+City Weight : 5004 | City Name : Shady Hollow | City Country : Texas
+City Weight : 4750 | City Name : Shazikou | City Country : China
+City Weight : 4435 | City Name : Al Mazra‘ah ash Sharqiyah | City Country : Palestinian Territory
+City Weight : 4415 | City Name : Sharpsville | City Country : Pennsylvania
+City Weight : 4403 | City Name : Sham Churasi | City Country : India
+City Weight : 4198 | City Name : Shalinskoye | City Country : Russia
+City Weight : 4165 | City Name : Baqah ash Sharqiyah | City Country : Palestinian Territory
+City Weight : 4142 | City Name : Shatalovo | City Country : Russia
+City Weight : 4126 | City Name : Barta‘ah ash Sharqiyah | City Country : Palestinian Territory
+City Weight : 3905 | City Name : Shahumyan | City Country : Armenia
+City Weight : 3901 | City Name : Shabla | City Country : Bulgaria
+City Weight : 3868 | City Name : Shabrovskiy | City Country : Russia
+City Weight : 3848 | City Name : Shablykino | City Country : Russia
+City Weight : 3835 | City Name : Shangani | City Country : Zimbabwe
+City Weight : 3822 | City Name : Shalqiya | City Country : Kazakhstan
+City Weight : 3785 | City Name : Shadyside | City Country : Ohio
+City Weight : 3726 | City Name : Fort Shawnee | City Country : Ohio
+City Weight : 3697 | City Name : Shark River Hills | City Country : New Jersey
+City Weight : 3675 | City Name : Shallotte | City Country : North Carolina
+City Weight : 3605 | City Name : Shamary | City Country : Russia
+City Weight : 3563 | City Name : Shashubay | City Country : Kazakhstan
+City Weight : 3446 | City Name : Sharpsburg | City Country : Pennsylvania
+City Weight : 3411 | City Name : Sharpes | City Country : Florida
+City Weight : 3394 | City Name : Mount Shasta | City Country : California
+City Weight : 3371 | City Name : Shackelford | City Country : California
+City Weight : 3358 | City Name : Shannondale | City Country : West Virginia
+City Weight : 3334 | City Name : Miram Shah | City Country : Pakistan
+City Weight : 3312 | City Name : Shaturtorf | City Country : Russia
+City Weight : 3209 | City Name : Shaami-Yurt | City Country : Russia
+City Weight : 3143 | City Name : Shannon Hills | City Country : Arkansas
+City Weight : 3130 | City Name : Shanmen | City Country : China
+City Weight : 3093 | City Name : Shanxia | City Country : China
+City Weight : 3035 | City Name : Shavano Park | City Country : Texas
+City Weight : 3031 | City Name : Shalyhyne | City Country : Ukraine
+City Weight : 2998 | City Name : Shady Spring | City Country : West Virginia
+City Weight : 2904 | City Name : Shady Cove | City Country : Oregon
+City Weight : 2844 | City Name : Shackle Island | City Country : Tennessee
+City Weight : 2767 | City Name : Shakhta | City Country : Russia
+City Weight : 2684 | City Name : Shalakusha | City Country : Russia
+City Weight : 2681 | City Name : Dayr Sharaf | City Country : Palestinian Territory
+City Weight : 2612 | City Name : Shady Shores | City Country : Texas
+City Weight : 2611 | City Name : Shafranovo | City Country : Russia
+City Weight : 2602 | City Name : Neyvo-Shaytanskiy | City Country : Russia
+City Weight : 2484 | City Name : Shallowater | City Country : Texas
+City Weight : 2439 | City Name : Al Lubban ash Sharqiyah | City Country : Palestinian Territory
+City Weight : 2418 | City Name : Shapleigh | City Country : Maine
+City Weight : 2412 | City Name : Shawbury | City Country : United Kingdom
+City Weight : 2389 | City Name : Carrick-on-Shannon | City Country : Ireland
+City Weight : 2309 | City Name : West Sharyland | City Country : Texas
+City Weight : 2171 | City Name : Shawnee Hills | City Country : Ohio
+City Weight : 2024 | City Name : Sharpsburg | City Country : North Carolina
+City Weight : 2019 | City Name : Shavertown | City Country : Pennsylvania
+City Weight : 1952 | City Name : Shaw | City Country : Mississippi
+City Weight : 1932 | City Name : Ash Shaykh Sa‘d | City Country : Palestinian Territory
+City Weight : 1910 | City Name : Shamrock | City Country : Texas
+City Weight : 1873 | City Name : Shawnee Land | City Country : Virginia
+City Weight : 1862 | City Name : Shannon | City Country : Georgia
+City Weight : 1820 | City Name : Shabikah | City Country : Tunisia
+City Weight : 1779 | City Name : Mount Gay-Shamrock | City Country : West Virginia
+City Weight : 1775 | City Name : Shatoy | City Country : Russia
+City Weight : 1771 | City Name : Shasta | City Country : California
+City Weight : 1753 | City Name : Shannon | City Country : Mississippi
+City Weight : 1686 | City Name : Shamokin Dam | City Country : Pennsylvania
+City Weight : 1671 | City Name : Shatin | City Country : Armenia
+City Weight : 1658 | City Name : Shaunavon | City Country : Saskatchewan
+City Weight : 1633 | City Name : Vershino-Shakhtaminskiy | City Country : Russia
+City Weight : 1610 | City Name : Shadeland | City Country : Indiana
+City Weight : 1608 | City Name : Shawville | City Country : Quebec
+City Weight : 1605 | City Name : Sharon | City Country : Wisconsin
+City Weight : 1600 | City Name : Maidan Shahr | City Country : Afghanistan
+City Weight : 1500 | City Name : An Nazlah ash Sharqiyah | City Country : Palestinian Territory
+City Weight : 1472 | City Name : Jurat ash Sham‘ah | City Country : Palestinian Territory
+City Weight : 1406 | City Name : Sharon | City Country : Mississippi
+City Weight : 1356 | City Name : Shattuck | City Country : Oklahoma
+City Weight : 1348 | City Name : New Sharon | City Country : Maine
+City Weight : 1312 | City Name : Shangcang | City Country : China
+City Weight : 1310 | City Name : Shawsville | City Country : Virginia
+City Weight : 1295 | City Name : Shandon | City Country : California
+City Weight : 1293 | City Name : New Sharon | City Country : Iowa
+City Weight : 1239 | City Name : Shawneetown | City Country : Illinois
+City Weight : 1200 | City Name : Moza Shahwala | City Country : Pakistan
+City Weight : 1200 | City Name : Shal’skiy | City Country : Russia
+City Weight : 1095 | City Name : Shaygino | City Country : Russia
+City Weight : 1045 | City Name : Shafer | City Country : Minnesota
+City Weight : 1026 | City Name : Shady Point | City Country : Oklahoma
+City Weight : 1011 | City Name : Shaghat | City Country : Armenia
+City Weight : 1000 | City Name : Buþrá ash Sham | City Country : Syria
+City Weight : 748 | City Name : Sharon Springs | City Country : Kansas
+City Weight : 600 | City Name : Shangliang | City Country : China
+City Weight : 25 | City Name : Ash Shawati | City Country : Yemen
+----------------------------------------
+The result of Search Size : 250
