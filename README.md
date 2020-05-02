@@ -43,3 +43,49 @@
     </ul>
   </li>
 </ul>
+
+<h3>Explaining an inforamtion of each file</h3>
+
+<table>
+  <tr>
+    <th>Files Names</th>
+    <th>Information</th>
+  </tr>
+  <tr>
+    <td>cities.txt</td>
+    <td>Contaning the infomation of city (its weight,its name and lastly its country)</td>
+  </tr>
+  <tr>
+    <td>output.txt</td>
+    <td>Show the result of search process in terms of  name of city, substring name of city and one character with being sensitive for lowercase and uppercase</td>
+  </tr>
+  <tr>
+    <td>Main.java</td>
+    <td>Handle with all project files to run the program</td>
+  </tr>
+  <tr>
+    <td>City.java</td>
+    <td>Defining it as a POJO</td>
+  </tr>
+  <tr>
+    <td>BinarySearch.java</td>
+    <td>Implementing search algorithm for name of city, substring name of city and one character </td>
+  </tr>
+  <tr>
+    <td>ProcessMethod.java</td>
+    <td>Managing all search algorithm via defined function</td>
+  </tr>
+  <tr>
+    <td>ReadFile.java</td>
+    <td>Reading cities.txt and assign each variable to City Object</td>
+  </tr>
+  <tr>
+    <td>ShowResult.java</td>
+    <td>Showing the search result</td>
+  </tr>
+  <tr>
+    <td>WriteFile.java</td>
+    <td>Writing all the search result into the output.txt</td>
+  </tr>
+</table>
+
